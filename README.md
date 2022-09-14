@@ -1,5 +1,5 @@
 # Projeto pagina de filme 
-projeto que mostra os filmes em cartaz e sua avaliação no imdb
+projeto que mostra e adiciona suas apis favoritas contidas no github
 
 <br>
 
